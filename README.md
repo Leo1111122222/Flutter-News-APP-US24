@@ -10,3 +10,10 @@
 ![8](https://github.com/Leo1111122222/Flutter-News-APP-US24/assets/132480062/a3330dee-f0a6-4ef7-9e56-2fe8f62ccbdd)
 ![9](https://github.com/Leo1111122222/Flutter-News-APP-US24/assets/132480062/98204077-f271-4181-ab09-98863b667346)
 ![10](https://github.com/Leo1111122222/Flutter-News-APP-US24/assets/132480062/233febc5-dce4-4f94-aea5-f834d029b276)
+
+
+
+# Some mistakes that the user may make
+![1714997869520](https://github.com/Leo1111122222/Flutter-News-APP-US24/assets/132480062/05093c40-fe2b-4b17-8599-7a8cd4bbc671)
+![1714997869531](https://github.com/Leo1111122222/Flutter-News-APP-US24/assets/132480062/46ec7b31-5a60-42c2-83cf-354e85d6bf8c)
+![1714997869508](https://github.com/Leo1111122222/Flutter-News-APP-US24/assets/132480062/1a2cfa3a-b004-4059-aaca-5077d3f3d277)
