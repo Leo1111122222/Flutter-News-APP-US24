@@ -10,5 +10,3 @@
 ![8](https://github.com/Leo1111122222/Flutter-News-APP-US24/assets/132480062/a3330dee-f0a6-4ef7-9e56-2fe8f62ccbdd)
 ![9](https://github.com/Leo1111122222/Flutter-News-APP-US24/assets/132480062/98204077-f271-4181-ab09-98863b667346)
 ![10](https://github.com/Leo1111122222/Flutter-News-APP-US24/assets/132480062/233febc5-dce4-4f94-aea5-f834d029b276)
-
-
