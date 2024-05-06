@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328816650663",
+    "project_id": "newsapp-794aa",
+    "storage_bucket": "newsapp-794aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328816650663:android:cb68f365e925311190ee82",
+        "android_client_info": {
+          "package_name": "com.LeoA.US24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB17jqZFxM90d7VZdiAyFi_hDKORyOH13o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
